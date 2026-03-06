@@ -5,7 +5,7 @@ import MobileNav from './MobileNav'
 const ResponsiveNav = () => {
   return (
     <div>
-        Yer responsivenav bar hai 
+        {/* Yer responsivenav bar hai  */}
       <Nav/>
       <MobileNav/>
     </div>
